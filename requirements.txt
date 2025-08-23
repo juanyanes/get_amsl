@@ -1,0 +1,8 @@
+requests
+pytest
+# Optional / recommended for spatial sampling (install only if needed):
+# rasterio
+# rioxarray
+# xarray
+# netCDF4
+# cdsapi  # for ERA5 access (requires CDS account)
